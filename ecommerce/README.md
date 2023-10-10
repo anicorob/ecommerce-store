@@ -1,3 +1,3 @@
-# E-commerce Store Using React & Context API 
+# E-commerce Store Using React & Context API
 
-### https://your-online-store.netlify.app/
+### https://6525a09150f9f120334e73c3--steady-marzipan-52dce2.netlify.app/
